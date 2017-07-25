@@ -1,3 +1,4 @@
+
 @extends('layouts.master')
 @section('main-content')
 <table id="example2" class="table table-bordered table-hover" display:none>

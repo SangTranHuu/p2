@@ -16,6 +16,7 @@ class TestController extends Controller
     	return view('admin_template', compact('mainCategory', 'sub1Category', 'sub2Category'));
 
     }
+    
 
     public function search(Request $request)
     {
